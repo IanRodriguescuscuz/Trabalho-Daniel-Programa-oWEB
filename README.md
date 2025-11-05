@@ -17,3 +17,5 @@ CREATE TABLE ingressos ( id INT AUTO_INCREMENT PRIMARY KEY,
 ingresso VARCHAR(100) NOT NULL, 
 preço VARCHAR(100) NOT NUll, 
 open_bar VARCHAR(100) NOT NUll );
+
+No menu da página inicial é possível acessar os tipos de ingressos cadastrados.
